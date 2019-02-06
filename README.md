@@ -1,0 +1,2 @@
+# forex
+several trading robots
